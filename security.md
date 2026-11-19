@@ -184,7 +184,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*DayZ · Updated 2026-11-18 · Shared under the MIT License*
+*DayZ · Updated 2026-11-19 · Shared under the MIT License*
 
 
-Updated 2026-11-18.
+Updated 2026-11-19.
